@@ -1,0 +1,14 @@
+{
+  "name": "NotSan SAA & BPR 2025 Lernquiz",
+  "short_name": "NotSan Quiz",
+  "description": "Lernquiz für Notfallsanitäter: SAA & BPR 2025, Medikamente, Anatomie/Physiologie, Pathophysiologie und Recht.",
+  "lang": "de-DE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "icons": [
+    {"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
